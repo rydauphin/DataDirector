@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'DataDirectorApp',
     'fileupload',
-    'crispy_forms'
+    'widget_tweaks'
 ]
 
 MIDDLEWARE = [
